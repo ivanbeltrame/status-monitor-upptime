@@ -63,14 +63,16 @@ status-website:
   cname: status.ivanbeltrame.com
   # baseUrl: /your-repo-name
   logoUrl: https://www.ivanbeltrame.com/img/icon.jpg
-  name: Status monitor - upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Status monitor - Upptime
+  introTitle: "**IvanBeltrame.com Real-Time Status Monitor**: Keep track of the live status and performance of ivanbeltrame.com with up-to-the-minute updates"
+  introMessage: Stay updated with the real-time status and performance of ivanbeltrame.com. Our comprehensive dashboard provides up-to-the-minute information on uptime, downtime, and overall site health, ensuring you are always in the know.
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER/
+    - title: Upptime
+      href: https://github.com/upptime/upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
