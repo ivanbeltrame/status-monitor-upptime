@@ -130,18 +130,20 @@
     "url": "https://cdn.ivanbeltrame.com",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.ivanbeltrame.com.ico",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 135,
-    "timeWeek": 174,
-    "timeMonth": 149,
-    "timeYear": 148,
-    "dailyMinutesDown": {}
+    "time": 147,
+    "timeDay": 117,
+    "timeWeek": 165,
+    "timeMonth": 147,
+    "timeYear": 147,
+    "dailyMinutesDown": {
+      "2024-10-17": 0
+    }
   },
   {
     "name": "Eleonora D'Arborea",
@@ -238,18 +240,20 @@
     "url": "https://patente.ivanbeltrame.com",
     "icon": "https://icons.duckduckgo.com/ip3/patente.ivanbeltrame.com.ico",
     "slug": "test-patente-b",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 134,
-    "timeDay": 83,
-    "timeWeek": 129,
-    "timeMonth": 136,
+    "timeDay": 90,
+    "timeWeek": 125,
+    "timeMonth": 134,
     "timeYear": 134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-17": 0
+    }
   },
   {
     "name": "Re di Roma",
