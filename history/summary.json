@@ -94,18 +94,20 @@
     "url": "https://appunti.ivanbeltrame.com",
     "icon": "https://icons.duckduckgo.com/ip3/appunti.ivanbeltrame.com.ico",
     "slug": "appunti",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 279,
-    "timeWeek": 267,
-    "timeMonth": 264,
-    "timeYear": 288,
-    "dailyMinutesDown": {}
+    "time": 444,
+    "timeDay": 10458,
+    "timeWeek": 2814,
+    "timeMonth": 901,
+    "timeYear": 444,
+    "dailyMinutesDown": {
+      "2025-01-09": 3
+    }
   },
   {
     "name": "Belbab",
@@ -169,18 +171,20 @@
     "url": "https://ergalassia.ivanbeltrame.com",
     "icon": "https://icons.duckduckgo.com/ip3/ergalassia.ivanbeltrame.com.ico",
     "slug": "er-galassia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 238,
-    "timeWeek": 206,
-    "timeMonth": 272,
-    "timeYear": 277,
-    "dailyMinutesDown": {}
+    "time": 460,
+    "timeDay": 12224,
+    "timeWeek": 3206,
+    "timeMonth": 1020,
+    "timeYear": 460,
+    "dailyMinutesDown": {
+      "2025-01-09": 1
+    }
   },
   {
     "name": "Giulia Maggiore",
