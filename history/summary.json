@@ -94,19 +94,19 @@
     "url": "https://appunti.ivanbeltrame.com",
     "icon": "https://icons.duckduckgo.com/ip3/appunti.ivanbeltrame.com.ico",
     "slug": "appunti",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 10458,
-    "timeWeek": 2814,
-    "timeMonth": 901,
-    "timeYear": 444,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 442,
+    "timeDay": 7039,
+    "timeWeek": 2523,
+    "timeMonth": 880,
+    "timeYear": 442,
     "dailyMinutesDown": {
-      "2025-01-09": 3
+      "2025-01-09": 18
     }
   },
   {
@@ -171,19 +171,19 @@
     "url": "https://ergalassia.ivanbeltrame.com",
     "icon": "https://icons.duckduckgo.com/ip3/ergalassia.ivanbeltrame.com.ico",
     "slug": "er-galassia",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 460,
-    "timeDay": 12224,
-    "timeWeek": 3206,
-    "timeMonth": 1020,
-    "timeYear": 460,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 458,
+    "timeDay": 8213,
+    "timeWeek": 2871,
+    "timeMonth": 995,
+    "timeYear": 458,
     "dailyMinutesDown": {
-      "2025-01-09": 1
+      "2025-01-09": 16
     }
   },
   {
