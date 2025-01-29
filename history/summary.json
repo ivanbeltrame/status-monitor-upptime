@@ -94,10 +94,10 @@
     "url": "https://appunti.ivanbeltrame.com",
     "icon": "https://icons.duckduckgo.com/ip3/appunti.ivanbeltrame.com.ico",
     "slug": "appunti",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 419,
@@ -106,6 +106,7 @@
     "timeMonth": 880,
     "timeYear": 419,
     "dailyMinutesDown": {
+      "2025-01-29": 1,
       "2025-01-09": 18
     }
   },
@@ -191,10 +192,10 @@
     "url": "https://giuliamaggiore.ivanbeltrame.com",
     "icon": "https://icons.duckduckgo.com/ip3/giuliamaggiore.ivanbeltrame.com.ico",
     "slug": "giulia-maggiore",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 272,
@@ -202,7 +203,9 @@
     "timeWeek": 285,
     "timeMonth": 249,
     "timeYear": 272,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 1
+    }
   },
   {
     "name": "Misericordia",
@@ -304,9 +307,9 @@
     "url": "https://doc.ivanweather.ivanbeltrame.com",
     "icon": "https://icons.duckduckgo.com/ip3/doc.ivanweather.ivanbeltrame.com.ico",
     "slug": "doc-ivanweather",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -315,7 +318,9 @@
     "timeWeek": 291,
     "timeMonth": 330,
     "timeYear": 277,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   },
   {
     "name": "Links",
