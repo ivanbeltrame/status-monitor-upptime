@@ -196,19 +196,19 @@
     "url": "https://giuliamaggiore.ivanbeltrame.com",
     "icon": "https://icons.duckduckgo.com/ip3/giuliamaggiore.ivanbeltrame.com.ico",
     "slug": "giulia-maggiore",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 270,
-    "timeDay": 301,
-    "timeWeek": 276,
-    "timeMonth": 267,
+    "timeDay": 322,
+    "timeWeek": 285,
+    "timeMonth": 270,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2025-04-14": 4
+      "2025-04-14": 12
     }
   },
   {
@@ -216,19 +216,19 @@
     "url": "https://misericordia.ivanbeltrame.com",
     "icon": "https://icons.duckduckgo.com/ip3/misericordia.ivanbeltrame.com.ico",
     "slug": "misericordia",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 275,
-    "timeDay": 266,
-    "timeWeek": 249,
-    "timeMonth": 268,
+    "timeDay": 297,
+    "timeWeek": 259,
+    "timeMonth": 270,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2025-04-14": 2,
+      "2025-04-14": 10,
       "2024-10-30": 16
     }
   },
@@ -276,19 +276,19 @@
     "url": "https://rediroma.ivanbeltrame.com",
     "icon": "https://icons.duckduckgo.com/ip3/rediroma.ivanbeltrame.com.ico",
     "slug": "re-di-roma",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 263,
-    "timeDay": 340,
-    "timeWeek": 250,
-    "timeMonth": 241,
+    "timeDay": 313,
+    "timeWeek": 254,
+    "timeMonth": 242,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2025-04-14": 1
+      "2025-04-14": 9
     }
   },
   {
