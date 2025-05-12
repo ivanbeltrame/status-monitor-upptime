@@ -56,6 +56,9 @@ sites:
     
   - name: Links
     url: https://links.ivanbeltrame.com
+    
+  - name: TEST
+    url: https://test-0001.ivanbeltrame.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
