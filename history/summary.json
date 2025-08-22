@@ -312,19 +312,19 @@
     "url": "https://doc.ivanweather.ivanbeltrame.com",
     "icon": "https://icons.duckduckgo.com/ip3/doc.ivanweather.ivanbeltrame.com.ico",
     "slug": "doc-ivanweather",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 263,
-    "timeDay": 242,
-    "timeWeek": 229,
-    "timeMonth": 253,
+    "timeDay": 234,
+    "timeWeek": 228,
+    "timeMonth": 252,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2025-08-22": 0
+      "2025-08-22": 23
     }
   },
   {
