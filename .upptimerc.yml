@@ -36,9 +36,6 @@ sites:
   - name: Misericordia
     url: https://misericordia.ivanbeltrame.com
     
-  - name: Monumenti Aperti
-    url: https://monumentiaperti.ivanbeltrame.com
-    
   - name: Re di Roma
     url: https://rediroma.ivanbeltrame.com
     
