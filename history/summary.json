@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/apps.ivanbeltrame.com.ico",
     "slug": "apps",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 193,
     "timeDay": 417,
     "timeWeek": 262,
     "timeMonth": 224,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 13,
       "2025-02-12": 21
     }
   },
@@ -63,19 +63,19 @@
     "url": "https://games.ivanbeltrame.com",
     "icon": "https://icons.duckduckgo.com/ip3/games.ivanbeltrame.com.ico",
     "slug": "games",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 259,
-    "timeWeek": 216,
-    "timeMonth": 210,
-    "timeYear": 201,
+    "timeDay": 345,
+    "timeWeek": 249,
+    "timeMonth": 219,
+    "timeYear": 202,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 13
     }
   },
   {
@@ -83,19 +83,19 @@
     "url": "https://test.ivanbeltrame.com",
     "icon": "https://icons.duckduckgo.com/ip3/test.ivanbeltrame.com.ico",
     "slug": "test-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 348,
-    "timeWeek": 228,
-    "timeMonth": 201,
-    "timeYear": 202,
+    "time": 199,
+    "timeDay": 452,
+    "timeWeek": 276,
+    "timeMonth": 215,
+    "timeYear": 203,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 13
     }
   },
   {
@@ -255,18 +255,20 @@
     "url": "https://patente.ivanbeltrame.com",
     "icon": "https://icons.duckduckgo.com/ip3/patente.ivanbeltrame.com.ico",
     "slug": "test-patente-b",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 163,
-    "timeDay": 551,
-    "timeWeek": 220,
-    "timeMonth": 179,
+    "timeDay": 322,
+    "timeWeek": 204,
+    "timeMonth": 176,
     "timeYear": 168,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Re di Roma",
