@@ -15,17 +15,14 @@ sites:
   - name: Games
     url: https://games.ivanbeltrame.com
     
-  - name: Test page
-    url: https://test.ivanbeltrame.com
+  - name: CDN
+    url: https://cdn.ivanbeltrame.com
     
   - name: Appunti
     url: https://appunti.ivanbeltrame.com
     
   - name: Belbab
     url: https://belbab.ivanbeltrame.com
-    
-  - name: CDN
-    url: https://cdn.ivanbeltrame.com
     
   - name: Eleonora D'Arborea
     url: https://eleonoradarborea.ivanbeltrame.com
@@ -41,9 +38,6 @@ sites:
     
   - name: Monumenti Aperti
     url: https://monumentiaperti.ivanbeltrame.com
-    
-  - name: Test Patente B
-    url: https://patente.ivanbeltrame.com
     
   - name: Re di Roma
     url: https://rediroma.ivanbeltrame.com
