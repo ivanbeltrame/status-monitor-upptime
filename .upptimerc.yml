@@ -42,9 +42,6 @@ sites:
   - name: Re di Roma
     url: https://rediroma.ivanbeltrame.com
     
-  - name: I vandali in Sardegna
-    url: https://vandalisardegna.ivanbeltrame.com
-    
   - name: Doc ivanweather
     url: https://doc.ivanweather.ivanbeltrame.com
     
