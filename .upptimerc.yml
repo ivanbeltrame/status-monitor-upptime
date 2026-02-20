@@ -8,6 +8,9 @@ sites:
     
   - name: ivanweather.com
     url: https://www.ivanweather.com
+
+  - name: Analisi graduatorie PoliTo
+    url: https://graduatorie-polito.ivanbeltrame.com
     
   - name: Apps
     url: https://apps.ivanbeltrame.com
