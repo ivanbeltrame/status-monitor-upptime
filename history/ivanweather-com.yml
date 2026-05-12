@@ -1,7 +1,7 @@
 url: https://www.ivanweather.com
-status: down
-code: 503
-responseTime: 15593
-lastUpdated: 2026-05-12T11:33:06.966Z
+status: up
+code: 200
+responseTime: 122
+lastUpdated: 2026-05-12T13:21:55.302Z
 startTime: 2024-09-05T10:02:29.962Z
 generator: Upptime <https://github.com/upptime/upptime>
