@@ -56,7 +56,7 @@ status-website:
   logoUrl: https://www.ivanbeltrame.com/img/icon.jpg
   name: Status monitor - Upptime
   introTitle: "**IvanBeltrame.com real time status monitor**
-  # introMessage: Stay updated with the real-time status and performance of ivanbeltrame.com. Our comprehensive dashboard provides up-to-the-minute information on uptime, downtime, and overall site health, ensuring you are always in the know.
+  introMessage: ""
   navbar:
     - title: Status
       href: /
