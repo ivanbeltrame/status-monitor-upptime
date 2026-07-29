@@ -55,8 +55,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://www.ivanbeltrame.com/img/icon.jpg
   name: Status monitor - Upptime
-  introTitle: "**IvanBeltrame.com real time status monitor**
-  introMessage: ""
+  introTitle: "**IvanBeltrame.com real time status monitor**"
+  # introMessage: ""
   navbar:
     - title: Status
       href: /
